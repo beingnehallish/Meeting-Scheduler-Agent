@@ -7,6 +7,10 @@
 The AI Meeting Scheduler Agent is an automated scheduler that converts natural-language meeting requests into actual Google Calendar events.
 It uses a language model to parse user instructions, determine the meeting timing, check availability using the Google Calendar FreeBusy API, suggest free time slots, and create events when confirmed by the user.
 
+
+https://github.com/user-attachments/assets/21572be2-cbb7-4648-85d1-32c967e809f9
+
+
 This project is built for the AI Agent Development Challenge and demonstrates practical AI engineering ability, API integration, and an autonomous agent workflow.
 
 ---
