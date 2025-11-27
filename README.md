@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/21572be2-cbb7-4648-85d1-32c967e809f9
 
 
 This project is built for the AI Agent Development Challenge and demonstrates practical AI engineering ability, API integration, and an autonomous agent workflow.
-![Meeting Scheduler Architecture (1)](https://github.com/user-attachments/assets/1388b37a-3c77-4855-8b83-2b649ed883a7)
+
 ![Meeting Scheduler Agent](https://github.com/user-attachments/assets/97345af1-0b1f-4d27-bb3d-e7b3e575deb9)
 
 ---
