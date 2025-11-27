@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-scheduler-agent-479516",
+  "private_key_id": "bd4db1480c84d51e1902ad6b7e1837ecbecb1ed2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5YZ0fjwfNewpb\nyqIGBj3xWpn1EaGeI2fkPUv2HoEsqvHb9EiKFRXNu+CvQ594R3xifJT8bN0BjLcd\nsX2+nMu3WuOJFWTXsxZD9swD1HPlbB0LOFJkBYTa22gJsjrroAg71TgZ0Y9iHOj5\nS2yMELdJh+iKR8vCmJLtK1y6sEI8aLmseb6940YFrMDJkEd6MvY/IMat2WZ/Zqwx\nX69HvTut6NVBYYVm38fcyMuMS/qDcq5MTkZtYgZcXD+sZ5RDOUNpHAici+5hin/N\n0g9RXAYTdPJ57cnMILAB//buO0+OiJ7ji7Ahn7acNJNt2nKkKKPtPLwhHjLC+EU9\nw2N/+5LBAgMBAAECggEADmzn4OGMqiLxsKhhOMZKEiqqcc1MLgXTywkxDMcdZqgr\nt2G4NlSDNJXy2ziQI3gul+xZXJYtEXaNdkhOQGOrn4o5S/zH8tf6+tFs2TxyQ09J\nKEsa8DEUwEIUA7MkjhrPITbLjYjG10voHiQOH40aciSbBg2lr7AXONDnv5hBIzmh\nyr50U0H7LyhuoV0/rDJ8DV3q9c0LGkBsUmVu4ZqO707IvxNkOfuORajatn/bTG4I\npN0IMpiOxkhOx54jMd51qt2BRj1JR1peKzntMPdAuKNrPIFfcQGbgjbfxPwNfd15\ntALYw0RtVfCWEF6j8DX+C6lF5wAUPyoDkPutk5BnEQKBgQD42xcngD0WJyysn/Xl\nYtRTb6R9g/oP+YdPIrNTjkL0Q36fbVayw3EmvU+vJZ2Jl4RG4l4cVPp+3P8hHk4X\nBmMnAr+7XSrYkqKWtxXzUVH5gxsl+SfNXeNP+pzSRjnfeWGl1kWc3a7nzvKi5x60\nxgTnYdr/ku0n1RYn6i4SSRh8+QKBgQC+tAgd81PQaN3ipuEsfphW16tbCSr6vsVx\n36l+38tytMKutqGt6XUeB/yDE7ZYT1hoMnKG5+/863/0Opk0JfNcwCg2uKSwbN+T\nkiSjsTSLmMO5WygaDcfieoxx4ZrVTK+fVc7grA4xowgvml0AZpuZBXLZ3sYR22Jy\ntuBSy8oeCQKBgAW55Np/1OgBlsGSHLJeh8wzsXFB7CsZ7scfYUj26Qt90hgRCAGt\nBZmCmabKEsnrtpt68fds7SamJyi37cwR1Y48PfUtu6KoHR2isNqccGpxXdqN1SCg\nnG5msd0UyJgfzuNl/swRPckPtf2Rm99E/y/jzIo880ALYysf9FdvXyThAoGAKvSO\nZ4CpvmYApM8GJWmWkukddfIItlZGTzIcEbIDN6EzwPruTCgr80nFPRkxl4630TCb\nz3tq+UNqnO6eF7r8qEW4SSsqHXtImQrwKdb+iPsuCxBXZhb4kTEddYFlyOnvHSrM\n4Jqgz9lzPJW+oRp7reomRqEBaIBMGp7KxJuWuVECgYBID7pe0vcslP76wKfVInWD\naD3CsWeMYAuCMjE9WOURB6bEiUNOXSMQIln0fbqobKhM7YD4Kict+6SzuAUkBc4o\nn/2RqRA9UI2cVCyaYaFE2GF/cK1Pl9FpFswYRfVYy2404HeV291g6la/Xh/H2YS7\n3RBvqv0hjrHr51ZCjU4FCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendar-agent-service-account@meeting-scheduler-agent-479516.iam.gserviceaccount.com",
+  "client_id": "105374943703165871666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendar-agent-service-account%40meeting-scheduler-agent-479516.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
