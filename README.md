@@ -1,4 +1,5 @@
-### MEETING SCHEDULER AGENT - CHALLENGE BY ROOMAN TECHNOLOGIES
+### "MEETING SCHEDULER AGENT" 
+AI Agent Development Challenge by Rooman Technologies.
 
 ---
 
