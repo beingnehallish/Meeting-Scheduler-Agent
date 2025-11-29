@@ -24,7 +24,11 @@ Using a powerful LLM, the agent can:
 ✔ Suggest optimal meeting slots
 ✔ Create the event automatically
 
-[https://github.com/user-attachments/assets/21572be2-cbb7-4648-85d1-32c967e809f9](https://github.com/user-attachments/assets/21572be2-cbb7-4648-85d1-32c967e809f9)
+
+
+https://github.com/user-attachments/assets/ea577731-e4cd-4b62-8b44-a63e53c1b8ea
+
+
 
 This project showcases **practical AI engineering**, **API integration**, and **autonomous agent design**, created as part of the **AI Agent Development Challenge**.
 
