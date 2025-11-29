@@ -7,6 +7,51 @@ load_dotenv()
 
 lavender_css = """
 <style>
+
+/* ───────────────────────────────
+   TOP LOGO  
+────────────────────────────────*/
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.top-logo {
+    width: 250px;
+    height: auto;
+}
+
+
+/* ───────────────────────────────
+   CHALLENGER BOX  
+────────────────────────────────*/
+.challenger-box {
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 30px 25px;
+    width: 240px;
+    float: right;
+    margin-top: 10px;
+    box-shadow: 4px 6px 0px rgba(0,0,0,0.25);
+    border: 1px solid #ddd;
+}
+
+.challenger-title {
+    font-size: 100px;
+    color: #444;
+    margin: 0;
+    font-weight: 500;
+}
+
+.challenger-name {
+    font-size: 100px;
+    margin-top: 6px;
+    color: #000;
+    font-weight: 600;
+}
+
+
+/* Existing styling… */
 .stApp {
     background-color: #ffffff !important;
 }
@@ -26,7 +71,6 @@ button * {
     color: white !important;
 }
 
-/* INPUT FIELDS */
 textarea, input, select {
     background-color: #fafafa !important;
     color: #000 !important;
@@ -35,12 +79,10 @@ textarea, input, select {
     padding: 10px !important;
 }
 
-/* HEADERS */
 h1, h2, h3, h4 {
     color: #222 !important;
 }
 
-/* SUCCESS BOX */
 .stSuccess {
     background-color: #E9FCE8 !important;
     border-radius: 8px !important;
@@ -52,6 +94,22 @@ st.markdown(lavender_css, unsafe_allow_html=True)
 
 # ---------- Streamlit Page ----------
 st.set_page_config(page_title="AI Meeting Scheduler", layout="centered")
+# ----- TOP BAR: LOGO + CHALLENGER CARD -----
+col1, col2 = st.columns([3, 3.6])
+with col1:
+    st.image("logo.jpeg", width=180)
+
+
+with col2:
+    st.markdown(
+        """
+        <div class="challenger-box">
+            <p class="challenger-title">Challenger:</p>
+            <p class="challenger-name">Nehal Gupta</p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
 st.title("Meeting Scheduler Agent — Internship Challenge")
 st.markdown("Enter a natural language request (Example: 'Schedule 30-min sync with Rahul tomorrow between 3–5 PM')")
